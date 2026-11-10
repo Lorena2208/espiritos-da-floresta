@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_batalha",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_batalha",
+  "parent":{
+    "name":"EspiritosDaFloresta_V4",
+    "path":"EspiritosDaFloresta_V4.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

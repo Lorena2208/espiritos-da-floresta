@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_fases",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_fases",
+  "parent":{
+    "name":"EspiritosDaFloresta_V4",
+    "path":"EspiritosDaFloresta_V4.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
